@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item android:state_pressed="true" android:drawable="@color/design_default_color_error"/>-->
+<!--    <item android:state_focused="true" android:drawable="@color/design_default_color_background"/>-->
+<!--    <item android:state_selected="true" android:drawable="@color/material_on_background_emphasis_medium"/>-->
+    <item android:state_window_focused="false" android:drawable="@mipmap/ic_launcher"/>
+    <item android:state_checked="true" android:drawable="@color/black"/>
+<!--    <item android:state_enabled="true" android:drawable="@color/design_default_color_primary"/>-->
+    <item android:drawable="@color/design_default_color_background"/>
+</selector>
